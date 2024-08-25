@@ -1,0 +1,12 @@
+z:/home/dwade/esp32-dev/dev-ov2460-camera/dev-ov2460-camera.ino
+z:/home/dwade/esp32-dev/dev-ov2460-camera/camera_pins.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ov2640.c
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ov2640.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ov2640_regs.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ov2640_settings.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/sccb.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/sd_read_write.cpp
+z:/home/dwade/esp32-dev/dev-ov2460-camera/sd_read_write.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ws2812.cpp
+z:/home/dwade/esp32-dev/dev-ov2460-camera/ws2812.h
+z:/home/dwade/esp32-dev/dev-ov2460-camera/xclk.h
